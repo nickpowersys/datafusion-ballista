@@ -13,3 +13,4 @@ CHANGELOG.md
 !target/release/ballista-executor
 !target/release/ballista-cli
 !target/release/tpch
+!python/target/wheels/
